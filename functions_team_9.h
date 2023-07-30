@@ -1,0 +1,2 @@
+void introd();
+void menuPrincipal();
